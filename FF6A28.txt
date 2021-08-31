@@ -1,0 +1,12 @@
+up orange #FF6A28
+down orange #D65F2A
+
+text-brown #DFB39E
+background dark #333333
+highlighted dark #444444
+
+image for shop for men #FFC290
+
+
+
+https://dribbble.com/shots/15811648-Ringgo-Shop-Landing-Page-Exploration/attachments/7625829?mode=media
